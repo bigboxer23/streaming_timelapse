@@ -22,7 +22,7 @@ PAGE = """\
 <title>Streaming Feed</title>
 </head>
 <body>
-<img src="stream.mjpg" width="1920" height="1080" />
+<img src="stream.mjpg" style="width:100%"/>
 </body>
 </html>
 """
